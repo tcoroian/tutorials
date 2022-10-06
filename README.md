@@ -1,2 +1,1 @@
-# tutorials
-Hello World type of thing
+Completing tutorials for Git, Linux, VIM and others.
